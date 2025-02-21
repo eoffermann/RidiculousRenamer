@@ -1,6 +1,12 @@
 # RidiculousRenamer
 
-*This is really just a silly experiment conducted with ChatGPT mostly to test how good it is at assembling a moderately complex UI.*
+This was really just an experiment conducted with ChatGPT to test how good it is at assembling a moderately complex UI. It was HORRIBLE at Kivy (it could never get working one) but terrific at PySide which is good enough I suppose.
+
+That said, it's a pretty decent renamer that lets you preview images you're renaming, edit destination filenames before they actually get made, and it has a decent progress tracker.
+
+It supports undo which is pretty cool for a commandline tool.
+
+Improvements could be made, and if you do something interesting feel free to send a pull request and I'll probably accept it.
 
 ## **The Creed of a Python Renaming Tool**
 
