@@ -38,19 +38,18 @@
 
 ## 📥 Installation
 
-### **1️⃣ Install Python (if not installed)**
-- Python **3.8+** is required.
+### **1️⃣ Install Anaconda (if not installed)**
 
-Download from [python.org](https://www.python.org/) if needed.
+Download from [anaconda.com](https://docs.anaconda.com/anaconda/install/) if needed.
 
 ### **2️⃣ Install Required Packages**
 Run the following command to install dependencies:
 ```sh
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
-If `requirements.txt` isn't available, install manually:
+then:
 ```sh
-pip install PySide6 matplotlib
+conda activate rrenamer
 ```
 
 ---

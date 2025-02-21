@@ -1,0 +1,35 @@
+Brotli @ file:///D:/bld/brotli-split_1725267609074/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1739515848642/work/certifi
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1735929714516/work
+contourpy==1.3.1
+cycler==0.12.1
+docutils @ file:///home/conda/feedstock_root/build_artifacts/docutils_1733217766141/work
+ffmpeg-python==0.2.0
+filetype @ file:///home/conda/feedstock_root/build_artifacts/filetype_1667445778563/work
+fonttools==4.56.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1733211830134/work
+Kivy @ file:///D:/bld/kivy_1735428527384/work
+kivy-deps.angle==0.4.0
+kivy-deps.glew==0.3.1
+Kivy-Garden==0.1.5
+kivy-uix==1.0.0
+kivy_deps.sdl2==0.8.0
+kiwisolver==1.4.8
+matplotlib==3.10.0
+numpy==2.2.3
+packaging==24.2
+pillow @ file:///D:/bld/pillow_1735929734120/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1736243443484/work
+pyparsing==3.2.1
+pypiwin32==223
+PySide6==6.8.2.1
+PySide6_Addons==6.8.2.1
+PySide6_Essentials==6.8.2.1
+PySocks @ file:///D:/bld/pysocks_1733217287171/work
+python-dateutil==2.9.0.post0
+pywin32==308
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1733217035951/work
+shiboken6==6.8.2.1
+six==1.17.0
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1708239446578/work
+win_inet_pton @ file:///D:/bld/win_inet_pton_1733130564612/work
